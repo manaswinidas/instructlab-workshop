@@ -611,7 +611,7 @@ Loading checkpoint shards: 100%|████████████████
 
 After the model is trained, it will be saved as a GGUF at `/home/instruct/.local/share/instructlab/checkpoints/ggml-model-f16.gguf`
 
-Since this process will take over qute some time to complete we have provided a model that has already been through this process. 
+Since this process will take quite some time to complete we have provided a model that has already been through this process. 
 
 First, let's stop the training process with with kbd:[ctrl+C]. In order to serve the newly trained model you can now run the following in the *upper* command window:
 
@@ -679,4 +679,4 @@ Start playing with both skill and knowledge additions. This is to give something
 
 As you can see, InstructLab is pretty straightforward and most of the time you spend will be on curating new taxonomy content. Again, we’re so happy you made it this far, and remember if you have questions we are here to help, and are excited to see what you come up with!
 
-Please visit the official project github at https://github.com/instructlab[www.github.com/instructlab] and check out the community repo to learn about how to get involved with the upstream community! Also, https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux/ai[learn more about RHEL AI here] (which includes support for InstructLab, idemification for model output for the included Granite large language models, and a platform to run AI your own way on the hybrid cloud).
+Please visit the official project github at https://github.com/instructlab[www.github.com/instructlab] and check out the community repo to learn about how to get involved with the upstream community! Also, https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux/ai[learn more about RHEL AI here] (which includes support for InstructLab, indemnification for model output for the included Granite large language models, and a platform to run AI your own way on the hybrid cloud).
